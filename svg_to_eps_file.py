@@ -7,7 +7,7 @@ input_file_name = ''
 
 # ---- ファイル名受け取り ---- #
 print("enter filename(cancel:c) : ")
-input_file_name = input()
+# input_file_name = input()
 # print('\n')
 # print(input_file_name)
 
